@@ -25,3 +25,5 @@
 > made a middleware using multer
 
 > HTTP (Hyper Text Transfer Protocol) and used postman for api testing and collecting data.
+
+> Register user: take data through postman
