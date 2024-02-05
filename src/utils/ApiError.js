@@ -1,3 +1,5 @@
+//file for throwing error wherever needed
+
 class ApiError extends Error{
     constructor(
         statusCode,
